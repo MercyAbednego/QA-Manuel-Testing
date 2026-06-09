@@ -34,7 +34,7 @@ The following modules were covered during regression execution:
 * Reversal handling
 * Insufficient balance validation
 
-### Goal Savings
+### Savings
 
 * Savings creation
 * Auto-save scheduling
@@ -43,7 +43,7 @@ The following modules were covered during regression execution:
 * Withdrawal restrictions
 * Maturity validation
 
-### Fixed Deposit
+### Investment
 
 * Investment creation
 * Interest calculation
