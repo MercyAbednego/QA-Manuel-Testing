@@ -116,11 +116,17 @@ Coverage includes:
 Coverage includes:
 
 ✅ Functional Testing
+
 ✅ Validation Testing
+
 ✅ Negative Testing
+
 ✅ Edge Case Testing
+
 ✅ Accessibility Testing
+
 ✅ Security & KYC Validation
+
 ✅ Session Recovery Testing
 
 ---
