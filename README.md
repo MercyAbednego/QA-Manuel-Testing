@@ -171,11 +171,18 @@ QA Engineer | Manual & Automation Testing | Fintech Testing
 
 ### Skills
 
-Manual Testing 
+• Manual Testing 
+
 • Regression Testing 
+
 • UAT 
+
 • Cypress 
+
 • Playwright 
+
 • Appium 
+
 • API Testing 
+
 • Defect Management
