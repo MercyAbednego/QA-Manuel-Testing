@@ -95,10 +95,6 @@ Coverage includes:
 
 ## Test Artifacts
 
-```text
-Transfer_Test_Cases.xlsx
-```
-
 ---
 
 ## Status
