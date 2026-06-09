@@ -74,9 +74,13 @@ The objective is to validate secure access, credential verification, session man
 Coverage includes:
 
 ✅ Functional Testing
+
 ✅ Negative Testing
+
 ✅ Validation Testing
+
 ✅ Security Testing
+
 ✅ Edge Case Testing
 
 ---
