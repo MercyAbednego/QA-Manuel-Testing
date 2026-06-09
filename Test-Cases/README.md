@@ -6,6 +6,37 @@ The test cases were designed to validate system functionality, business requirem
 
 Testing includes positive, negative, validation, edge case, security, and end-to-end scenarios.
 
+
+---
+
+## Repository Structure
+
+```text
+Test-Cases
+│
+├── README.md
+│
+├── Login
+│   ├── Login_Test_Cases.pdf
+│   └── README.md
+│
+├── Registration-Onboarding
+│   ├── Registration_Onboarding_Test_Cases.pdf
+│   └── README.md
+│
+├── Transfer
+│   ├── Transfer_Test_Cases.pdf
+│   └── README.md
+│
+├── Goal-Savings
+│   ├── Goal_Savings_Test_Cases.pdf
+│   └── README.md
+│
+└── Fixed-Deposit
+    ├── Fixed_Deposit_Test_Cases.pdf
+    └── README.md
+```
+
 ---
 
 ## Test Coverage
