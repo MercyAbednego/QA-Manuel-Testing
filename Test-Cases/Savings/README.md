@@ -125,11 +125,17 @@ Coverage includes:
 Coverage includes:
 
 ✅ Functional Testing
+
 ✅ Validation Testing
+
 ✅ Negative Testing
+
 ✅ Edge Case Testing
+
 ✅ Financial Calculation Testing
+
 ✅ Notification Testing
+
 ✅ Admin Testing
 
 ---
