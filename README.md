@@ -18,28 +18,44 @@ qa-manual-testing
 ├── README.md
 │
 ├── Test-Cases
+│   │
 │   ├── README.md
+│   │
 │   ├── Login
+│   │   ├── Login_Test_Cases.pdf
 │   │   └── README.md
+│   │
 │   ├── Registration-Onboarding
+│   │   ├── Registration_Onboarding_Test_Cases.pdf
 │   │   └── README.md
+│   │
 │   ├── Transfer
+│   │   ├── Transfer_Test_Cases.pdf
 │   │   └── README.md
+│   │
 │   ├── Goal-Savings
+│   │   ├── Goal_Savings_Test_Cases.pdf
 │   │   └── README.md
+│   │
 │   └── Fixed-Deposit
+│       ├── Fixed_Deposit_Test_Cases.pdf
 │       └── README.md
 │
 ├── Bug-Reports
+│   ├── Bug_Report.pdf
 │   └── README.md
 │
 ├── Regression-Testing
+│   ├── Regression_Testing_Report.pdf
+│   ├── Regression_Test_Cases_Sample.pdf
 │   └── README.md
 │
 ├── Test-Summary-Reports
+│   ├── Test_Summary_Report.pdf
 │   └── README.md
 │
 └── UAT
+    ├── UAT_Report.pdf
     └── README.md
 ```
 
