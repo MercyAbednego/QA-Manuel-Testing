@@ -16,19 +16,23 @@ The goal of this repository is to demonstrate practical QA knowledge across comp
 qa-manual-testing
 │
 ├── Test-Cases
-│   ├── Login
-│   ├── Transfer
-│   ├── Registration-Onboarding
-│   ├── Savings
-│   └── Investment
 │
 ├── Bug-Reports
+│   ├── Bug_Report.pdf
+│   └── README.md
 │
 ├── Regression-Testing
+│   ├── Regression_Testing_Report.pdf
+│   ├── Regression_Test_Cases_Sample.pdf
+│   └── README.md
 │
 ├── Test-Summary-Reports
+│   ├── Test_Summary_Report.pdf
+│   └── README.md
 │
 └── UAT
+    ├── UAT_Report.pdf
+    └── README.md
 ```
 
 ---
