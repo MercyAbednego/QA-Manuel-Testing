@@ -15,23 +15,31 @@ The goal of this repository is to demonstrate practical QA knowledge across comp
 ```text
 qa-manual-testing
 │
+├── README.md
+│
 ├── Test-Cases
+│   ├── README.md
+│   ├── Login
+│   │   └── README.md
+│   ├── Registration-Onboarding
+│   │   └── README.md
+│   ├── Transfer
+│   │   └── README.md
+│   ├── Goal-Savings
+│   │   └── README.md
+│   └── Fixed-Deposit
+│       └── README.md
 │
 ├── Bug-Reports
-│   ├── Bug_Report.pdf
 │   └── README.md
 │
 ├── Regression-Testing
-│   ├── Regression_Testing_Report.pdf
-│   ├── Regression_Test_Cases_Sample.pdf
 │   └── README.md
 │
 ├── Test-Summary-Reports
-│   ├── Test_Summary_Report.pdf
 │   └── README.md
 │
 └── UAT
-    ├── UAT_Report.pdf
     └── README.md
 ```
 
