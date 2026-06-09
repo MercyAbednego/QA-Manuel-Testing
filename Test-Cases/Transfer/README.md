@@ -91,9 +91,6 @@ Coverage includes:
 
 ✅ Transaction Recovery Testing
 
----
-
-## Test Artifacts
 
 ---
 
